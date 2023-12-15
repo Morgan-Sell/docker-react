@@ -21,8 +21,8 @@ jobs:
         with:
           aws_access_key: ${{ secrets.AWS_ACCESS_KEY }}
           aws_secret_key: ${{ secrets.AWS_SECRET_KEY }}
-          application_name: docker-react-v2
-          environment_name: Docker-react-v2-env
+          application_name: docker-react-v3
+          environment_name: Docker-react-v3-env
           existing_bucket_name: elasticbeanstalk-us-east-1-588336835903
           region: us-east-1
           version_label: ${{ github.sha }}
