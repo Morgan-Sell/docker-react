@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          EBS Docker successfully deployed!
+          I was changed on the Feature branch. Yay Git!
         </p>
         <a
           className="App-link"
